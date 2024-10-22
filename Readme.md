@@ -4,7 +4,7 @@
 
 ## 2- Para iniciar um projeto 
 ```console
-django docker-compose run web django-admin startproject {NOME DO PROJETO} .
+docker-compose run web django-admin startproject {NOME DO PROJETO} .
 ```
 ## 3- Para criar um app django
     
